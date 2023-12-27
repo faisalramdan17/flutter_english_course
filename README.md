@@ -2,6 +2,10 @@
 
 This project is a starting point for a Flutter application.
 
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/1.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/1.png" style="max-width:100%;"></a>
+</p
+
 ## Getting Started
 
 This project is a starting point for a Flutter application. A few resources to get you started if this is your first Flutter project:
@@ -49,7 +53,25 @@ Our mission at Coding Your Life is to help purpose driven Flutter developers go 
 
 # Screenshot
 <p>
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/default.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/default.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/2.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/2.png" style="max-width:100%;"></a>
+</p>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/3.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/3.png" style="max-width:100%;"></a>
+</p>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/4.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/4.png" style="max-width:100%;"></a>
+</p>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/5.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/5.png" style="max-width:100%;"></a>
+</p>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/6.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/6.png" style="max-width:100%;"></a>
+</p>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/7.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/7.png" style="max-width:100%;"></a>
+</p>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/8.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/8.png" style="max-width:100%;"></a>
 </p>
 
 ## Support Me
