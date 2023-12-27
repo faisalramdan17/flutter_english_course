@@ -51,7 +51,7 @@ I hope you liked it, and dont forget to like, subscribe, share this video with y
 Our mission at Coding Your Life is to help purpose driven Flutter developers go full-time doing what they love and making an impact through coding. We achieve this with useful Flutter tips and clean UI design apps.
 
 
-# Screenshot
+# Screenshots
 <p>
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/2.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/2.png" style="max-width:100%;"></a>
 </p>
