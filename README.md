@@ -4,7 +4,7 @@ This project is a starting point for a Flutter application.
 
 <p>
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/1.png"><img src="https://raw.githubusercontent.com/faisalramdan17/flutter_english_course/main/assets/screenshots/1.png" style="max-width:100%;"></a>
-</p
+</p>
 
 ## Getting Started
 
