@@ -4,7 +4,7 @@ class AppTheme {
   //
   // For Light Mode
   //
-  final lightTheme = ThemeData(
+  static final lightTheme = ThemeData(
     useMaterial3: true,
     scaffoldBackgroundColor: AppColors.lightScaffoldBackgroundColor,
     primaryColor: AppColors.lightPrimaryColor,
@@ -15,6 +15,7 @@ class AppTheme {
     appBarTheme: const AppBarTheme(
       elevation: 0.0,
       centerTitle: true,
+      surfaceTintColor: Colors.transparent,
       foregroundColor: AppColors.darkPrimaryVariantColor,
       backgroundColor: AppColors.lightBackgroundColor,
       actionsIconTheme: IconThemeData(color: AppColors.darkPrimaryVariantColor),
@@ -55,6 +56,7 @@ class AppTheme {
     // buttonColor: AppColors.darkButtonColor,
     brightness: Brightness.dark,
     appBarTheme: AppBarTheme(
+      surfaceTintColor: Colors.transparent,
       titleTextStyle: AppFonts.darkAppBarTheme.titleMedium,
       color: AppColors.darkPrimaryVariantColor,
       iconTheme: const IconThemeData(color: AppColors.darkOnPrimaryColor),

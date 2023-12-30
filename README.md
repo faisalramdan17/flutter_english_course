@@ -43,6 +43,7 @@ PLAYLISTS:
 # Video Tutorial
 - YouTube (Preview) : https://youtu.be/sVZRk_c3yDA
 - YouTube (Part 1)  : https://youtu.be/9nXud2h6I2U
+- YouTube (Part 2)  : https://youtu.be/mOyldC8E2dg
 
 SUBSRIBE → https://bit.ly/3ymJhMh
 
