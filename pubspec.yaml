@@ -41,7 +41,7 @@ dependencies:
   go_router: ^10.1.0
   badges: ^2.0.3
 
-  # Added for tutorial 1
+  # Added for tutorial 2
   ionicons: ^0.1.2 
   flutter_svg: ^2.0.4
   step_progress_indicator: ^1.0.2
