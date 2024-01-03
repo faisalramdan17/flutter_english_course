@@ -44,7 +44,7 @@ PLAYLISTS:
 - YouTube (Preview) : https://youtu.be/sVZRk_c3yDA
 - YouTube (Part 1)  : https://youtu.be/9nXud2h6I2U
 - YouTube (Part 2)  : https://youtu.be/mOyldC8E2dg
-- YouTube (Part 3)  : https://youtu.be/0h8P-N-qdtI
+- YouTube (Part 3)  : https://youtu.be/6yrSLoeXslE
 
 🔗 Palylist of Flutter UI Tutorial - E-Learning App:
 https://www.youtube.com/playlist?list=PLfoSLwBzaK26h0b-XZ-ypaqahOFcc4XkS
